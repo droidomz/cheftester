@@ -1,0 +1,7 @@
+name             'omar'
+maintainer       'Omar Inc'
+maintainer_email 'droidomz@gmail.com'
+license          'Apache 2.0'
+description      'Installs/Configures omar'
+long_description 'Installs/Configures omar'
+version          '0.1.0'
